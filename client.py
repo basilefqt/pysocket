@@ -1,12 +1,12 @@
 import os
 
-os.system('python3 serveur.py')
+#os.system('python3 serveur.py')
 
 
 def send(ip,a):
     import socket
     import os
-    os.system('pyhton3 main.py')
+    #os.system('pyhton3 main.py')
     if ip == '':
         ip = '192.168.1.75'
     hote = ip
